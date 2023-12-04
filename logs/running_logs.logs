@@ -1,0 +1,146 @@
+2023-12-01 11:55:11,892: INFO: main welcome to the custom logging
+2023-12-01 11:56:01,644: INFO: main: welcome to the custom logging
+2023-12-01 15:44:53,986: INFO: main: Data Ingestion Stage started...
+2023-12-01 15:44:53,992: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 15:44:54,000: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 15:44:54,011: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 15:44:54,015: INFO: common: created directory at artifacts
+2023-12-01 15:44:54,020: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 15:46:06,905: INFO: main: Data Ingestion Stage started...
+2023-12-01 15:46:06,921: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 15:46:06,921: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 15:46:06,921: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 15:46:06,921: INFO: common: created directory at artifacts
+2023-12-01 15:46:06,925: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 15:50:43,387: INFO: main: Data Ingestion Stage started...
+2023-12-01 15:50:43,389: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 15:50:43,389: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 15:50:43,389: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 15:50:43,389: INFO: common: created directory at artifacts
+2023-12-01 15:50:43,389: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 15:53:03,429: INFO: main: Data Ingestion Stage started...
+2023-12-01 15:53:03,431: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 15:53:03,431: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 15:53:03,434: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 15:53:03,434: INFO: common: created directory at artifacts
+2023-12-01 15:53:03,436: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 15:53:36,116: INFO: main: Data Ingestion Stage started...
+2023-12-01 15:53:36,119: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 15:53:36,119: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 15:53:36,122: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 15:53:36,122: INFO: common: created directory at artifacts
+2023-12-01 15:53:36,122: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 15:55:35,563: INFO: main: Data Ingestion Stage started...
+2023-12-01 15:55:35,567: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 15:55:35,572: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 15:55:35,573: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 15:55:35,575: INFO: common: created directory at artifacts
+2023-12-01 15:55:35,575: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 15:55:48,271: INFO: main: Data Ingestion Stage started...
+2023-12-01 15:55:48,271: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 15:55:48,271: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 15:55:48,271: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 15:55:48,271: INFO: common: created directory at artifacts
+2023-12-01 15:55:48,271: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 15:58:51,466: INFO: main: Data Ingestion Stage started...
+2023-12-01 15:58:51,474: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 15:58:51,477: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 15:58:51,477: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 15:58:51,477: INFO: common: created directory at artifacts
+2023-12-01 16:02:08,101: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:02:08,104: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 16:02:08,104: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 16:02:08,104: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 16:02:08,107: INFO: common: created directory at artifacts
+2023-12-01 16:02:08,107: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 16:04:07,588: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:04:07,588: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 16:04:07,588: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 16:04:07,588: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 16:04:07,588: INFO: common: created directory at artifacts
+2023-12-01 16:04:07,588: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 16:07:20,355: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:07:20,357: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 16:07:20,361: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 16:07:20,362: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 16:07:20,364: INFO: common: created directory at artifacts
+2023-12-01 16:07:20,365: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 16:10:56,809: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:10:56,812: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 16:10:56,812: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 16:10:56,812: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 16:10:56,812: INFO: common: created directory at artifacts
+2023-12-01 16:10:56,812: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 16:13:13,526: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:13:13,541: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 16:13:13,541: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 16:13:13,541: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 16:13:13,541: INFO: common: created directory at artifacts
+2023-12-01 16:13:13,541: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 16:13:52,106: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:13:52,110: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 16:13:52,110: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 16:13:52,116: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 16:13:52,116: INFO: common: created directory at artifacts
+2023-12-01 16:13:52,116: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 16:19:34,938: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:19:34,949: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 16:19:34,952: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 16:19:34,952: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 16:19:34,955: INFO: common: created directory at artifacts
+2023-12-01 16:19:34,955: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 16:29:10,625: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:29:10,625: INFO: common: read yaml file {'artifacts_root': 'artifacts', 'data_ingetion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/hrishikesh147/MLPROJECT9_MLFLOW/raw/main/winequality-red.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}}
+2023-12-01 16:29:10,625: INFO: common: read yaml file {'key1': 'value1'}
+2023-12-01 16:29:10,625: INFO: common: read yaml file {'key': 'val'}
+2023-12-01 16:29:10,625: INFO: common: created directory at artifacts
+2023-12-01 16:29:10,641: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 16:35:39,095: INFO: main: Data Ingestion Stage started...
+2023-12-01 16:35:39,097: INFO: common: read yaml file config\config.yaml
+2023-12-01 16:35:39,100: INFO: common: read yaml file params.yaml
+2023-12-01 16:35:39,101: INFO: common: read yaml file schema.yaml
+2023-12-01 16:35:39,102: INFO: common: created directory at artifacts
+2023-12-01 16:35:39,103: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 18:24:02,178: INFO: main: Data Ingestion Stage started...
+2023-12-01 18:24:02,178: INFO: common: read yaml file config\config.yaml
+2023-12-01 18:24:02,178: INFO: common: read yaml file params.yaml
+2023-12-01 18:24:02,178: INFO: common: read yaml file schema.yaml
+2023-12-01 18:24:02,178: INFO: common: created directory at artifacts
+2023-12-01 18:24:02,178: ERROR: main: An error occured: "'ConfigBox' object has no attribute 'data_ingestion'"
+2023-12-01 18:26:07,511: INFO: main: Data Ingestion Stage started...
+2023-12-01 18:26:07,517: INFO: common: read yaml file config\config.yaml
+2023-12-01 18:26:07,517: INFO: common: read yaml file params.yaml
+2023-12-01 18:26:07,519: INFO: common: read yaml file schema.yaml
+2023-12-01 18:26:07,519: INFO: common: created directory at artifacts
+2023-12-01 18:26:07,519: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 18:26:07,519: ERROR: main: An error occured: 'DataIngestionConfig' object has no attribute 'data_ingestion'
+2023-12-01 18:31:51,260: INFO: main: Data Ingestion Stage started...
+2023-12-01 18:31:51,262: INFO: common: read yaml file config\config.yaml
+2023-12-01 18:31:51,262: INFO: common: read yaml file params.yaml
+2023-12-01 18:31:51,262: INFO: common: read yaml file schema.yaml
+2023-12-01 18:31:51,262: INFO: common: created directory at artifacts
+2023-12-01 18:31:51,262: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 18:31:51,268: ERROR: main: An error occured: 'module' object is not callable
+2023-12-01 18:33:35,907: INFO: main: Data Ingestion Stage started...
+2023-12-01 18:33:35,923: INFO: common: read yaml file config\config.yaml
+2023-12-01 18:33:35,923: INFO: common: read yaml file params.yaml
+2023-12-01 18:33:35,923: INFO: common: read yaml file schema.yaml
+2023-12-01 18:33:35,927: INFO: common: created directory at artifacts
+2023-12-01 18:33:35,928: INFO: common: created directory at artifacts/data_ingestion
+2023-12-01 18:33:37,309: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloadad
+2023-12-01 18:33:37,334: INFO: main: Data Ingestion Stage completed...
+2023-12-04 14:17:41,495: INFO: main: Data Ingestion Stage started...
+2023-12-04 14:17:41,515: INFO: common: read yaml file config\config.yaml
+2023-12-04 14:17:41,529: INFO: common: read yaml file params.yaml
+2023-12-04 14:17:41,531: INFO: common: read yaml file schema.yaml
+2023-12-04 14:17:41,537: INFO: common: created directory at artifacts
+2023-12-04 14:17:41,537: INFO: common: created directory at artifacts/data_ingestion
+2023-12-04 14:17:42,666: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloadad
+2023-12-04 14:17:42,691: INFO: main: Data Ingestion Stage completed...
+2023-12-04 14:17:42,691: INFO: main: Data Validation Stage started...
+2023-12-04 14:17:42,697: INFO: common: read yaml file config\config.yaml
+2023-12-04 14:17:42,700: INFO: common: read yaml file params.yaml
+2023-12-04 14:17:42,702: INFO: common: read yaml file schema.yaml
+2023-12-04 14:17:42,709: INFO: common: created directory at artifacts
+2023-12-04 14:17:42,710: INFO: common: created directory at artifacts/data_validation
+2023-12-04 14:17:42,759: INFO: main: Data Validation Stage completed...
