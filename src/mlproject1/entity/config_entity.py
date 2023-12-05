@@ -15,3 +15,19 @@ class DataValidationConfig:
     STATUS_FILE: str
     all_schema: dict
 
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
+
+@dataclass(frozen=True)
+class ModelTrainerConfig:
+    root_dir: Path
+    train_csv: Path
+    test_csv: Path
+    model_name: str
+    alpha: float
+    l1_ratio: float
+    target_column: str
+
+    

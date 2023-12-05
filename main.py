@@ -1,6 +1,8 @@
 from src.mlproject1 import logger
 from src.mlproject1.pipeline.Stage01_data_ingestion import DataIngestionTrainingPipeline
 from src.mlproject1.pipeline.stage02_data_validation import DataValidationTrainingPipeline
+from src.mlproject1.pipeline.stage03_data_transformation import Datatransformationtrainingpipeline
+from src.mlproject1.pipeline.stage02_model_trainer import ModelTrainertrainingpipeline
 
 
 STAGE_NAME="Data Ingestion Stage"
@@ -18,10 +20,36 @@ except Exception as e:
 STAGE_NAME="Data Validation Stage"
 
 try:
-        logger.info(f"{STAGE_NAME} started...")
-        obj=DataValidationTrainingPipeline()
-        obj.main()
-        logger.info(f"{STAGE_NAME} completed...")
+    logger.info(f"{STAGE_NAME} started...")
+    obj=DataValidationTrainingPipeline()
+    obj.main()
+    logger.info(f"{STAGE_NAME} completed...")
 
 except Exception as e:
     raise e
+
+
+STAGE_NAME="Data Transformation Stage"
+
+try:
+    logger.info(f"{STAGE_NAME} started...")
+    obj=Datatransformationtrainingpipeline()
+    obj.main()
+    logger.info(f"{STAGE_NAME} completed...")
+
+except Exception as e:
+    raise e
+
+
+STAGE_NAME="MODEL TRAINER"
+
+try:
+    logger.info(f"{STAGE_NAME} started...")
+    obj=ModelTrainertrainingpipeline()
+    obj.main()
+    logger.info(f"{STAGE_NAME} completed...")
+except Exception as e:
+    raise e
+
+
+

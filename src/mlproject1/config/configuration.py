@@ -1,6 +1,6 @@
 from src.mlproject1.constants import *
 from src.mlproject1.utils.common import create_directories,read_yaml
-from src.mlproject1.entity.config_entity import (DataIngestionConfig,DataValidationConfig)
+from src.mlproject1.entity.config_entity import (DataIngestionConfig,DataValidationConfig,ModelTrainerConfig,DataTransformationConfig)
 
 class ConfigurationManager:
     def __init__(self,config_file_path=CONFIG_FILE_PATH,schema_file_path=SCHEMA_FILE_PATH,params_file_path=PARAMS_FILE_PATH):
@@ -47,5 +47,37 @@ class ConfigurationManager:
             return data_validation_config
         except Exception as e:
             raise e
+        
+    def get_data_transformation_config(self)-> DataTransformationConfig:
+
+        config=self.config.data_transformation
+
+        create_directories([config.root_dir])
+
+        data_transformation_config=DataTransformationConfig(
+            root_dir=config.root_dir,
+            data_path=config.data_path
+        )
+
+        return data_transformation_config
+    
+    def get_model_trainer(self)-> ModelTrainerConfig:
+        config=self.config.model_trainer
+        params=self.params.ElasticNet
+        schema=self.schema.TARGET_COLUMN
+
+        create_directories([config.root_dir])
+
+        model_trainer_conf=ModelTrainerConfig(
+            root_dir=config.root_dir,
+            train_csv=config.train_csv,
+            test_csv=config.test_csv,
+            model_name=config.model_name,
+            alpha=params.alpha,
+            l1_ratio=params.l1_ratio,
+            target_column=schema.name
+        )
+
+        return model_trainer_conf
         
             
