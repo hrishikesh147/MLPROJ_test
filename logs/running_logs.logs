@@ -405,3 +405,319 @@
 2023-12-05 11:25:45,467: INFO: common: created directory at artifacts
 2023-12-05 11:25:45,467: INFO: common: created directory at artifacts/model_trainer
 2023-12-05 11:25:45,510: INFO: main: MODE TRAINER completed...
+2023-12-05 12:24:21,392: INFO: common: read yaml file config\config.yaml
+2023-12-05 12:24:21,398: INFO: common: read yaml file params.yaml
+2023-12-05 12:24:21,403: INFO: common: read yaml file schema.yaml
+2023-12-05 12:24:21,405: INFO: common: created directory at artifacts
+2023-12-05 12:24:21,409: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 12:55:37,670: INFO: common: read yaml file config\config.yaml
+2023-12-05 12:55:37,673: INFO: common: read yaml file params.yaml
+2023-12-05 12:55:37,679: INFO: common: read yaml file schema.yaml
+2023-12-05 12:55:37,683: INFO: common: created directory at artifacts
+2023-12-05 12:55:37,686: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 12:56:12,002: INFO: main: Data Ingestion Stage started...
+2023-12-05 12:56:12,005: INFO: common: read yaml file config\config.yaml
+2023-12-05 12:56:12,010: INFO: common: read yaml file params.yaml
+2023-12-05 12:56:12,010: INFO: common: read yaml file schema.yaml
+2023-12-05 12:56:12,010: INFO: common: created directory at artifacts
+2023-12-05 12:56:12,010: INFO: common: created directory at artifacts/data_ingestion
+2023-12-05 12:56:12,958: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloadad
+2023-12-05 12:56:12,974: INFO: main: Data Ingestion Stage completed...
+2023-12-05 12:56:12,974: INFO: main: Data Validation Stage started...
+2023-12-05 12:56:12,986: INFO: common: read yaml file config\config.yaml
+2023-12-05 12:56:12,988: INFO: common: read yaml file params.yaml
+2023-12-05 12:56:12,990: INFO: common: read yaml file schema.yaml
+2023-12-05 12:56:12,991: INFO: common: created directory at artifacts
+2023-12-05 12:56:12,992: INFO: common: created directory at artifacts/data_validation
+2023-12-05 12:56:13,009: INFO: main: Data Validation Stage completed...
+2023-12-05 12:56:13,009: INFO: main: Data Transformation Stage started...
+2023-12-05 12:56:13,018: INFO: common: read yaml file config\config.yaml
+2023-12-05 12:56:13,019: INFO: common: read yaml file params.yaml
+2023-12-05 12:56:13,022: INFO: common: read yaml file schema.yaml
+2023-12-05 12:56:13,023: INFO: common: created directory at artifacts
+2023-12-05 12:56:13,023: INFO: common: created directory at artifacts/data_transformation
+2023-12-05 12:56:13,052: INFO: main: Data Transformation Stage completed...
+2023-12-05 12:56:13,052: INFO: main: MODEL TRAINER started...
+2023-12-05 12:56:13,056: INFO: common: read yaml file config\config.yaml
+2023-12-05 12:56:13,057: INFO: common: read yaml file params.yaml
+2023-12-05 12:56:13,059: INFO: common: read yaml file schema.yaml
+2023-12-05 12:56:13,059: INFO: common: created directory at artifacts
+2023-12-05 12:56:13,059: INFO: common: created directory at artifacts/model_trainer
+2023-12-05 12:56:13,104: INFO: main: MODEL TRAINER completed...
+2023-12-05 12:56:28,956: INFO: common: read yaml file config\config.yaml
+2023-12-05 12:56:28,958: INFO: common: read yaml file params.yaml
+2023-12-05 12:56:28,962: INFO: common: read yaml file schema.yaml
+2023-12-05 12:56:28,964: INFO: common: created directory at artifacts
+2023-12-05 12:56:28,967: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:01:02,497: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:01:02,502: INFO: common: read yaml file params.yaml
+2023-12-05 13:01:02,506: INFO: common: read yaml file schema.yaml
+2023-12-05 13:01:02,507: INFO: common: created directory at artifacts
+2023-12-05 13:01:02,508: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:01:46,095: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:01:46,104: INFO: common: read yaml file params.yaml
+2023-12-05 13:01:46,109: INFO: common: read yaml file schema.yaml
+2023-12-05 13:01:46,113: INFO: common: created directory at artifacts
+2023-12-05 13:01:46,113: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:04:13,712: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:04:13,714: INFO: common: read yaml file params.yaml
+2023-12-05 13:04:13,723: INFO: common: read yaml file schema.yaml
+2023-12-05 13:04:13,728: INFO: common: created directory at artifacts
+2023-12-05 13:04:13,730: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:05:40,006: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:05:40,006: INFO: common: read yaml file params.yaml
+2023-12-05 13:05:40,019: INFO: common: read yaml file schema.yaml
+2023-12-05 13:05:40,022: INFO: common: created directory at artifacts
+2023-12-05 13:05:40,026: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:05:53,249: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:05:53,260: INFO: common: read yaml file params.yaml
+2023-12-05 13:05:53,271: INFO: common: read yaml file schema.yaml
+2023-12-05 13:05:53,273: INFO: common: created directory at artifacts
+2023-12-05 13:05:53,280: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:07:33,447: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:07:33,456: INFO: common: read yaml file params.yaml
+2023-12-05 13:07:33,464: INFO: common: read yaml file schema.yaml
+2023-12-05 13:07:33,467: INFO: common: created directory at artifacts
+2023-12-05 13:07:33,470: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:10:57,349: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:10:57,357: INFO: common: read yaml file params.yaml
+2023-12-05 13:10:57,368: INFO: common: read yaml file schema.yaml
+2023-12-05 13:10:57,368: INFO: common: created directory at artifacts
+2023-12-05 13:10:57,373: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:10:57,582: INFO: common: data dumped at json file <_io.TextIOWrapper name='artifacts\\model_evaluation\\metrics.json' mode='w' encoding='UTF-8'>
+2023-12-05 13:14:12,607: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:14:12,613: INFO: common: read yaml file params.yaml
+2023-12-05 13:14:12,620: INFO: common: read yaml file schema.yaml
+2023-12-05 13:14:12,629: INFO: common: created directory at artifacts
+2023-12-05 13:14:12,631: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:14:14,074: INFO: common: data dumped at json file <_io.TextIOWrapper name='artifacts\\model_evaluation\\metrics.json' mode='w' encoding='UTF-8'>
+2023-12-05 13:15:55,586: INFO: common: read yaml file config\config.yaml
+2023-12-05 13:15:55,592: INFO: common: read yaml file params.yaml
+2023-12-05 13:15:55,602: INFO: common: read yaml file schema.yaml
+2023-12-05 13:15:55,605: INFO: common: created directory at artifacts
+2023-12-05 13:15:55,607: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 13:15:56,245: INFO: common: data dumped at json file <_io.TextIOWrapper name='artifacts\\model_evaluation\\metrics.json' mode='w' encoding='UTF-8'>
+2023-12-05 14:23:28,892: INFO: main: Data Ingestion Stage started...
+2023-12-05 14:23:28,900: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:23:28,906: INFO: common: read yaml file params.yaml
+2023-12-05 14:23:28,910: INFO: common: read yaml file schema.yaml
+2023-12-05 14:23:28,911: INFO: common: created directory at artifacts
+2023-12-05 14:23:28,911: INFO: common: created directory at artifacts/data_ingestion
+2023-12-05 14:23:29,997: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloadad
+2023-12-05 14:23:30,032: INFO: main: Data Ingestion Stage completed...
+2023-12-05 14:23:30,032: INFO: main: Data Validation Stage started...
+2023-12-05 14:23:30,040: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:23:30,040: INFO: common: read yaml file params.yaml
+2023-12-05 14:23:30,050: INFO: common: read yaml file schema.yaml
+2023-12-05 14:23:30,053: INFO: common: created directory at artifacts
+2023-12-05 14:23:30,053: INFO: common: created directory at artifacts/data_validation
+2023-12-05 14:23:30,109: INFO: main: Data Validation Stage completed...
+2023-12-05 14:23:30,110: INFO: main: Data Transformation Stage started...
+2023-12-05 14:23:30,135: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:23:30,137: INFO: common: read yaml file params.yaml
+2023-12-05 14:23:30,140: INFO: common: read yaml file schema.yaml
+2023-12-05 14:23:30,145: INFO: common: created directory at artifacts
+2023-12-05 14:23:30,145: INFO: common: created directory at artifacts/data_transformation
+2023-12-05 14:23:30,203: INFO: main: Data Transformation Stage completed...
+2023-12-05 14:23:30,203: INFO: main: MODEL TRAINER started...
+2023-12-05 14:23:30,211: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:23:30,215: INFO: common: read yaml file params.yaml
+2023-12-05 14:23:30,221: INFO: common: read yaml file schema.yaml
+2023-12-05 14:23:30,222: INFO: common: created directory at artifacts
+2023-12-05 14:23:30,224: INFO: common: created directory at artifacts/model_trainer
+2023-12-05 14:23:30,306: INFO: main: MODEL TRAINER completed...
+2023-12-05 14:23:30,306: INFO: main: Data Evaluation Stage started...
+2023-12-05 14:23:30,310: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:23:30,310: INFO: common: read yaml file params.yaml
+2023-12-05 14:23:30,321: INFO: common: read yaml file schema.yaml
+2023-12-05 14:23:30,321: INFO: common: created directory at artifacts
+2023-12-05 14:23:30,321: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 14:23:38,314: INFO: main: Data Evaluation Stage completed...
+2023-12-05 14:25:48,687: INFO: main: Data Ingestion Stage started...
+2023-12-05 14:25:48,703: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:25:48,712: INFO: common: read yaml file params.yaml
+2023-12-05 14:25:48,715: INFO: common: read yaml file schema.yaml
+2023-12-05 14:25:48,715: INFO: common: created directory at artifacts
+2023-12-05 14:25:48,715: INFO: common: created directory at artifacts/data_ingestion
+2023-12-05 14:25:48,723: INFO: data_ingestion: File already exists
+2023-12-05 14:25:48,723: INFO: main: Data Ingestion Stage completed...
+2023-12-05 14:25:48,723: INFO: main: Data Validation Stage started...
+2023-12-05 14:25:48,731: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:25:48,740: INFO: common: read yaml file params.yaml
+2023-12-05 14:25:48,745: INFO: common: read yaml file schema.yaml
+2023-12-05 14:25:48,745: INFO: common: created directory at artifacts
+2023-12-05 14:25:48,745: INFO: common: created directory at artifacts/data_validation
+2023-12-05 14:25:48,782: INFO: main: Data Validation Stage completed...
+2023-12-05 14:25:48,782: INFO: main: Data Transformation Stage started...
+2023-12-05 14:25:48,791: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:25:48,797: INFO: common: read yaml file params.yaml
+2023-12-05 14:25:48,799: INFO: common: read yaml file schema.yaml
+2023-12-05 14:25:48,799: INFO: common: created directory at artifacts
+2023-12-05 14:25:48,799: INFO: common: created directory at artifacts/data_transformation
+2023-12-05 14:25:48,843: INFO: main: Data Transformation Stage completed...
+2023-12-05 14:25:48,843: INFO: main: MODEL TRAINER started...
+2023-12-05 14:25:48,845: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:25:48,845: INFO: common: read yaml file params.yaml
+2023-12-05 14:25:48,857: INFO: common: read yaml file schema.yaml
+2023-12-05 14:25:48,858: INFO: common: created directory at artifacts
+2023-12-05 14:25:48,859: INFO: common: created directory at artifacts/model_trainer
+2023-12-05 14:25:48,913: INFO: main: MODEL TRAINER completed...
+2023-12-05 14:25:48,913: INFO: main: Data Evaluation Stage started...
+2023-12-05 14:25:48,919: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:25:48,919: INFO: common: read yaml file params.yaml
+2023-12-05 14:25:48,927: INFO: common: read yaml file schema.yaml
+2023-12-05 14:25:48,928: INFO: common: created directory at artifacts
+2023-12-05 14:25:48,928: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 14:25:55,446: INFO: main: Data Evaluation Stage completed...
+2023-12-05 14:26:16,780: INFO: main: Data Ingestion Stage started...
+2023-12-05 14:26:16,788: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:26:16,793: INFO: common: read yaml file params.yaml
+2023-12-05 14:26:16,795: INFO: common: read yaml file schema.yaml
+2023-12-05 14:26:16,795: INFO: common: created directory at artifacts
+2023-12-05 14:26:16,800: INFO: common: created directory at artifacts/data_ingestion
+2023-12-05 14:26:16,800: INFO: data_ingestion: File already exists
+2023-12-05 14:26:16,808: INFO: main: Data Ingestion Stage completed...
+2023-12-05 14:26:16,808: INFO: main: Data Validation Stage started...
+2023-12-05 14:26:16,818: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:26:16,821: INFO: common: read yaml file params.yaml
+2023-12-05 14:26:16,826: INFO: common: read yaml file schema.yaml
+2023-12-05 14:26:16,828: INFO: common: created directory at artifacts
+2023-12-05 14:26:16,828: INFO: common: created directory at artifacts/data_validation
+2023-12-05 14:26:16,853: INFO: main: Data Validation Stage completed...
+2023-12-05 14:26:16,853: INFO: main: Data Transformation Stage started...
+2023-12-05 14:26:16,863: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:26:16,868: INFO: common: read yaml file params.yaml
+2023-12-05 14:26:16,873: INFO: common: read yaml file schema.yaml
+2023-12-05 14:26:16,873: INFO: common: created directory at artifacts
+2023-12-05 14:26:16,873: INFO: common: created directory at artifacts/data_transformation
+2023-12-05 14:26:16,915: INFO: main: Data Transformation Stage completed...
+2023-12-05 14:26:16,915: INFO: main: MODEL TRAINER started...
+2023-12-05 14:26:16,921: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:26:16,921: INFO: common: read yaml file params.yaml
+2023-12-05 14:26:16,927: INFO: common: read yaml file schema.yaml
+2023-12-05 14:26:16,931: INFO: common: created directory at artifacts
+2023-12-05 14:26:16,932: INFO: common: created directory at artifacts/model_trainer
+2023-12-05 14:26:16,986: INFO: main: MODEL TRAINER completed...
+2023-12-05 14:26:16,986: INFO: main: Data Evaluation Stage started...
+2023-12-05 14:26:16,992: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:26:16,995: INFO: common: read yaml file params.yaml
+2023-12-05 14:26:16,999: INFO: common: read yaml file schema.yaml
+2023-12-05 14:26:17,000: INFO: common: created directory at artifacts
+2023-12-05 14:26:17,000: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 14:26:23,849: INFO: main: Data Evaluation Stage completed...
+2023-12-05 14:27:26,355: INFO: main: Data Ingestion Stage started...
+2023-12-05 14:27:26,367: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:27:26,370: INFO: common: read yaml file params.yaml
+2023-12-05 14:27:26,379: INFO: common: read yaml file schema.yaml
+2023-12-05 14:27:26,380: INFO: common: created directory at artifacts
+2023-12-05 14:27:26,380: INFO: common: created directory at artifacts/data_ingestion
+2023-12-05 14:27:26,384: INFO: data_ingestion: File already exists
+2023-12-05 14:27:26,384: INFO: main: Data Ingestion Stage completed...
+2023-12-05 14:27:26,384: INFO: main: Data Validation Stage started...
+2023-12-05 14:27:26,395: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:27:26,399: INFO: common: read yaml file params.yaml
+2023-12-05 14:27:26,405: INFO: common: read yaml file schema.yaml
+2023-12-05 14:27:26,405: INFO: common: created directory at artifacts
+2023-12-05 14:27:26,406: INFO: common: created directory at artifacts/data_validation
+2023-12-05 14:27:26,434: INFO: main: Data Validation Stage completed...
+2023-12-05 14:27:26,434: INFO: main: Data Transformation Stage started...
+2023-12-05 14:27:26,445: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:27:26,450: INFO: common: read yaml file params.yaml
+2023-12-05 14:27:26,451: INFO: common: read yaml file schema.yaml
+2023-12-05 14:27:26,456: INFO: common: created directory at artifacts
+2023-12-05 14:27:26,456: INFO: common: created directory at artifacts/data_transformation
+2023-12-05 14:27:26,500: INFO: main: Data Transformation Stage completed...
+2023-12-05 14:27:26,500: INFO: main: MODEL TRAINER started...
+2023-12-05 14:27:26,512: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:27:26,515: INFO: common: read yaml file params.yaml
+2023-12-05 14:27:26,521: INFO: common: read yaml file schema.yaml
+2023-12-05 14:27:26,522: INFO: common: created directory at artifacts
+2023-12-05 14:27:26,523: INFO: common: created directory at artifacts/model_trainer
+2023-12-05 14:27:26,581: INFO: main: MODEL TRAINER completed...
+2023-12-05 14:27:26,581: INFO: main: Data Evaluation Stage started...
+2023-12-05 14:27:26,589: INFO: common: read yaml file config\config.yaml
+2023-12-05 14:27:26,591: INFO: common: read yaml file params.yaml
+2023-12-05 14:27:26,597: INFO: common: read yaml file schema.yaml
+2023-12-05 14:27:26,598: INFO: common: created directory at artifacts
+2023-12-05 14:27:26,598: INFO: common: created directory at artifacts/model_evaluation
+2023-12-05 14:27:33,376: INFO: main: Data Evaluation Stage completed...
+2023-12-05 15:00:11,403: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.7:8080
+2023-12-05 15:00:11,407: INFO: _internal: [33mPress CTRL+C to quit[0m
+2023-12-05 15:00:11,410: INFO: _internal:  * Restarting with stat
+2023-12-05 15:00:13,597: WARNING: _internal:  * Debugger is active!
+2023-12-05 15:00:13,632: INFO: _internal:  * Debugger PIN: 125-814-182
+2023-12-05 15:00:22,602: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-05 15:00:22,685: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-12-05 15:00:22,739: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-12-05 15:00:22,885: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-12-05 15:00:22,922: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-05 15:00:42,055: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-05 15:00:42,096: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-12-05 15:00:42,290: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-12-05 15:00:42,666: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-12-05 15:00:42,930: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:00:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-05 15:01:57,364: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e**\x00\x00\x00#\x00\x00\x00')
+2023-12-05 15:01:57,368: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] "[35m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03*\x9f#ì\x94'â\x9dc\x08ä]@\x185øÎä\x02IhïÐÙ\x09\x13Í,\x7fØQê %\x9fßÂ¤\x18X0>¹\x13\x17IÃ\x03\x9c\x1eÿe4c\x05\x062\x86\\µ/Gg\x99é\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e**\x00\x00\x00#\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:01:57,430: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥êê\x00\x00Di\x00\x05\x00\x03\x02h2\x00')
+2023-12-05 15:01:57,430: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] "[35m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x034Yë\x16²®Ç`ÓË/\x0b\x9f3ÀÚw\x1e\x8eæÎçüÝöñ\x12\x0e>]\x1b¼ và\x82Öh é\x07 \x8a\x0b¤µ{ôò\x92\x89ÏzµÒ¹ \x1e@.\x13\x1fò¿L\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥êê\x00\x00Di\x00\x05\x00\x03\x02h2\x00[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:01:57,630: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
+2023-12-05 15:01:57,634: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] "[35m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03×íÝWáØÊl ´\x8c\x9f9\x17\x06%uã\x83\x94¸Øá¦u\x02 \x0cÙ·±© ÙäZ¿\x8e\x94\x8d2û\x98ß\x8aìÑÛs\x85¥\x95èa\x16É¿ÆbÝd÷\x95\x15[\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ezz\x00\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01\x04\x00 \x0bÑ\x16\x9d\x14\x15|õ\x05¢\\BÈHÔ±DÅÁ:\x05>\x09\x10g\x16æ¾ÐK£\x0b\x00\x90\x03Fæe\x0b%Ñõê\x97êÐgè\x0ddÒ±tjL¬¾\x0e(Dm¤\x94ÌÂ"ß\x8eV\x96¬\x1aú\x0eM`ÓO\x1fr\x80QÒ\x99\x0c\x19\\Îã\x1d´&0>HB¦_áõÌ,Í\x05\x96S\x18ä\x16Á$§ý#>¯I9¸\x94{½\x11ðÅ\x95\x9aVúµÚ\x15º7%ÆÑ\x9bM\x84.\x1b)O\x8dýoÈ\x17\x19J\x0cØ\x8b;þ\x08¯\x0dÔ\x84¹%\x95ÎÜ\x02\x92a3ä·ÌâL¸\x91Ê\x00\x0b\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2ÿ\x01\x00\x01\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:01:57,688: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] code 400, message Bad request version ('wî\x0f©_ëÿ<²\x00')
+2023-12-05 15:01:57,688: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] "[35m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03C\x02\x09í\x96\x04Äva\x01ãÏlú\x94\x0cÛáÂ%}?³ÜO÷ß,}}w\x06 !§\x1a±©1\x03l\x11v\x96e4±tÔ¢"5\x99 ÷\x85wî\x0f©_ëÿ<²\x00 [0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:01:57,739: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+2023-12-05 15:01:57,739: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] "[35m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03\x83\x1fÁö\x99ëÛ®Ï\x95\x96«\x18¡¥6\x1eÕ\\Â\x8dÛ\x1e0²NÇù_\x18\x83. Þ±3",h\x0c3]Ú(\x86\x0e\x89\x1fQ\x90^Õ¾.ôÁþã\x0bA\x9b§²HÉ\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85ªª\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00+\x00\x07\x06**\x03\x04\x03\x03\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00\x0b\x00\x02\x01\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:01:57,938: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] code 400, message Bad request version ('localhost\x00')
+2023-12-05 15:01:57,941: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:01:57] "[35m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03Ì§Ï®\x01Çïs´jw!ÆËìm/\x12\x8e\x8d3w\x89àá[;¯\x1e\x8ezÿ ^Ïû±k\x1b\x0d\x80\x9e\x83YFfcC[dµÿ\x02\x8b¤{Û\x85\x0dJT\x0e\x9f.,\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85zz\x00\x00Di\x00\x05\x00\x03\x02h2ÿ\x01\x00\x01\x00\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:02:09,423: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] code 400, message Bad request version ('ë¶\x9bPWè6"\x02\x9b2Ö')
+2023-12-05 15:02:09,425: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] "[35m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03Ù\x1c}Ð*\x8c/ÝÅè»\x04\x98©6ê\x91|\x12U\x84Á¸÷ßZd.Ú\x97õ\x8f \x9dþß2}ã>âM\x9d7\x0d\x09½Î¦fl?!\x8aê\x0b\x1b\x8cÅ\x03C±tØ-\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06EÚÚ\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00+\x00\x07\x06::\x03\x04\x03\x03\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x003\x04ï\x04í\x8a\x8a\x00\x01\x00c\x99\x04Àv\x80N®\x0eý\x00\x0dï±-\x0e+\x88¸¿8\x00\x981¨ö¹øq»(?\x9aQËkéºvDz\x87~\x00]\x05\x83\x1fü\x99y\x83;\x92w\x9bª¦ù¿"¹3÷ú\x93r\x83\x86\x8cgtÕ\x91|;\x91\x1d¢â4e\x9b\x0eÕ«ed`s°!|µ%c*W\x08¹§29CÌÔ¨\x87\x0dë¶\x9bPWè6"\x02\x9b2Ö[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:02:09,425: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06EÚÚ\x00\x00\x00')
+2023-12-05 15:02:09,429: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] "[35m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x031æâè°\x8eRaàé0r\x04\x1f\x96PUGÆý<3.¼\x19¨oE\x8a\x1d`U ¿l\x04\x81è\x98òx<\x8f\x1a\x15²ÉqÔr;MÇ¾\x12üÝ8\x17ç\x1f24\x11n\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06EÚÚ\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:02:09,682: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] code 400, message Bad request version ('F5\x0e\x00')
+2023-12-05 15:02:09,683: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] "[35m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03\x01\x14@Ì\x01Ö¯»ÔÝH"4È\x90G\x80B-\x9a\x96üQ\x99\x08\x02\x1d\x92ü]úê PúfúÕh_\x07\x9bØ\x8c\x16f#C%Ö\x12ìXfâ\x15º.:ÑÂ\x1fF5\x0e\x00 [0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:02:09,731: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] code 400, message Bad request version ('\x00\x02\x01\x00\x00#\x00\x00\x00')
+2023-12-05 15:02:09,731: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] "[35m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x033ÝÞ\x8e\x1f]ÌGJÍKqØ=ydâVÚ\x9c\x1aC`ÐÃÅ²ÌG\x17ßk ¾OMH´é®ÐÈO\x1f½9Öú# ¿ìEê0å®é¿\x08\x8ax!c®\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85\x9a\x9a\x00\x00\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00+\x00\x07\x06êê\x03\x04\x03\x03\x00\x0b\x00\x02\x01\x00\x00#\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:02:09,738: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] code 400, message Bad request version ('localhost\x00-\x00\x02\x01\x01\x00#\x00\x00\x00')
+2023-12-05 15:02:09,738: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] "[35m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03\x89\x94§\x0d\x0b&Ât FÄ\x81R%´w\x1f\x9a\x9cT\x10§:0E¨5k§§»\\ ì\x9c\x91Ä×ë"¤×h{GÀ\x18üÖ\x01(èQ·\x97\x9d\x80"Ré£\x0bÖ)¿\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85úú\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01þ\x0d\x00ú\x00\x00\x01\x00\x01\x8f\x00 Q\x1bkq\x02Ý$MT\x15¹²b!õ¢u#z³F»ò÷ºúÓÕçû\x0ch\x00Ð\x85\x93p\x93\x88¬mò²]\x12ás¸âèv)Ç#UÒ\x01\x98¦Òê»B\x02&fEª¢[¶\x99)t\x81¤Ô\x92\x90\x12ÛÔ¿\x1e{Îé\x91áj`\x04.\x11´·Cóµæêl×¬¨Hk¢oö@\x04»loxg«Yh\x08ÌøqU\x17J\x16>rü¸@]ç\x03Éh\x83­:sË¹t%RÝX\x8c<ìü÷mü\x80)Á-ª\x04\x0c\x1e$\x0fé\x1fS<80âEH\x07ø'\x83\x02bÄ\x049~Ìð64*:\x07\x81Q%hZ[FAS\x9cwç³º0®\x08ät\x04v]à¸!\x12\x16\x0b'VIÂgÌãÈæR\x1e²Hà¨jØUË\x9d\x0d\x83\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00-\x00\x02\x01\x01\x00#\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:02:09,992: ERROR: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] code 400, message Bad request version ('\x1bÁ¥<Ù\x02')
+2023-12-05 15:02:09,992: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:02:09] "[35m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03\x96\\i\x84\x1e\x1a§£i·Õ.=Ý\x91Ò\x04cÛ4¨N¶¨Éë.b\x9e0\x00m aº¬S\x1d\x11ÄöWÜÑ\x95ìê³\x0b\x95ÌÑµ\x0c+÷f¡i\x0d\x91è_¸:\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Eºº\x00\x00\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x003\x04ï\x04íÚÚ\x00\x01\x00c\x99\x04ÀÒl«\x86\x0b\x17à\x91ïG03«Üg\x8bw¾Þð9q¿t\x8ei\x17\x0dï¦¸\x7fñÃ¤\x17q\x94\x7f·\x8f7S\x92Z1¶\x03\\©\x0e\x15\x87·á7p\x9cIf+Í\x10Sne+¢5\x04\x9dÍr6z\x84\x14\x87ôM\x0e¹^¿@ Wk1\x07\x84\x8cª\x062à¦\x86Q*\x9c÷\x15 \x9ev\x8fç4Ãáz .s\x91\x9cH(Ã \x99&v¬*jtºøI#\x17EêS\x98z\x16&ä"À\x8fftÃ³)WD\x1f=\x87jc\x10DKX~i¸*Þ\x14Xnh\x0f[&À¤\x80\x02v\x97\x03a©Îª#\x9bÀÆ\x03?ã\x0cô\x82\x82\x9d4\x0d ú\x11\x8bÓ¾B8ªëÐA¨¦Y×ë\x95d0¯WPÈðñ\x1bhº|Å³\x8cÿZ\x9b¸K¨\x08\x8bMõTsk\x13p2¦=ºÒ¹(5@9ô¬Eð\x1dTgtÂ6\x08¿²Å¬DF/0©ñB@v\x14\x9dë\x89\x82ÿEy\x92\x06#ùöG\x8dq8p\x12¥Ïfbh°\x92ø¢[\x99¸n\x1bKl`\x1c\x1bÁ¥<Ù\x02[0m" HTTPStatus.BAD_REQUEST -
+2023-12-05 15:02:42,498: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.7:8080
+2023-12-05 15:02:42,498: INFO: _internal: [33mPress CTRL+C to quit[0m
+2023-12-05 15:02:42,503: INFO: _internal:  * Restarting with stat
+2023-12-05 15:02:44,457: WARNING: _internal:  * Debugger is active!
+2023-12-05 15:02:44,480: INFO: _internal:  * Debugger PIN: 125-814-182
+2023-12-05 15:03:23,729: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:03:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-05 15:03:23,858: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:03:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-05 15:03:23,948: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:03:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-05 15:03:24,073: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:03:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-05 15:04:40,212: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.7:8080
+2023-12-05 15:04:40,215: INFO: _internal: [33mPress CTRL+C to quit[0m
+2023-12-05 15:04:40,219: INFO: _internal:  * Restarting with stat
+2023-12-05 15:04:42,156: WARNING: _internal:  * Debugger is active!
+2023-12-05 15:04:42,158: INFO: _internal:  * Debugger PIN: 125-814-182
+2023-12-05 15:04:46,144: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-05 15:04:46,259: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-05 15:04:46,272: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-05 15:04:46,303: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-05 15:04:57,628: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-05 15:04:57,662: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-05 15:04:57,669: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-05 15:04:57,704: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-05 15:04:57,737: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-05 15:04:58,474: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-05 15:04:58,491: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:58] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-05 15:04:58,509: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-05 15:04:58,531: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-05 15:04:58,551: INFO: _internal: 127.0.0.1 - - [05/Dec/2023 15:04:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-05 15:06:07,425: INFO: _internal:  * Detected change in 'E:\\FullStack_Data\\MACHINE_LEARNING\\PROJECTS\\MLPROJ_test\\app.py', reloading
+2023-12-05 15:06:07,605: INFO: _internal:  * Restarting with stat
+2023-12-05 15:06:09,718: WARNING: _internal:  * Debugger is active!
+2023-12-05 15:06:09,728: INFO: _internal:  * Debugger PIN: 125-814-182

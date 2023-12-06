@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJ_test/mlruns/0/62408de4b1b640e98a664d2b705f546e/artifacts
+end_time: 1701766583846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62408de4b1b640e98a664d2b705f546e
+run_name: tasteful-koi-915
+run_uuid: 62408de4b1b640e98a664d2b705f546e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701766577391
+status: 3
+tags: []
+user_id: DELL

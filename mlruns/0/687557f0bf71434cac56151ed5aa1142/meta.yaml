@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJ_test/mlruns/0/687557f0bf71434cac56151ed5aa1142/artifacts
+end_time: 1701766555436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 687557f0bf71434cac56151ed5aa1142
+run_name: sedate-kite-497
+run_uuid: 687557f0bf71434cac56151ed5aa1142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701766549280
+status: 3
+tags: []
+user_id: DELL

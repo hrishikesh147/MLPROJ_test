@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJ_test/mlruns/0/770aa2d527134390abff7582f1df942a/artifacts
+end_time: 1701759262009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 770aa2d527134390abff7582f1df942a
+run_name: spiffy-vole-100
+run_uuid: 770aa2d527134390abff7582f1df942a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701759261930
+status: 4
+tags: []
+user_id: DELL

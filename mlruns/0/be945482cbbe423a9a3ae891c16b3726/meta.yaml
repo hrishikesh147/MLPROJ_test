@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJ_test/mlruns/0/be945482cbbe423a9a3ae891c16b3726/artifacts
+end_time: 1701766418313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be945482cbbe423a9a3ae891c16b3726
+run_name: polite-mole-188
+run_uuid: be945482cbbe423a9a3ae891c16b3726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701766410781
+status: 3
+tags: []
+user_id: DELL

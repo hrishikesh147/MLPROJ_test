@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJ_test/mlruns/0/d6c749f06f1a4788b606cb0d2b2884bc/artifacts
+end_time: 1701761853584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6c749f06f1a4788b606cb0d2b2884bc
+run_name: unique-owl-453
+run_uuid: d6c749f06f1a4788b606cb0d2b2884bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701761853496
+status: 4
+tags: []
+user_id: DELL

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJ_test/mlruns/0/11ba3df776494161a8d6f26b03bb7a7a/artifacts
+end_time: 1701761753413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11ba3df776494161a8d6f26b03bb7a7a
+run_name: silent-flea-517
+run_uuid: 11ba3df776494161a8d6f26b03bb7a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701761753305
+status: 4
+tags: []
+user_id: DELL

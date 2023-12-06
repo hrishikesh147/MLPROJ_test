@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJ_test/mlruns/0/8fc61616ee00455396051f1981d60f90/artifacts
+end_time: 1701761740157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fc61616ee00455396051f1981d60f90
+run_name: persistent-moose-967
+run_uuid: 8fc61616ee00455396051f1981d60f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701761740060
+status: 4
+tags: []
+user_id: DELL
